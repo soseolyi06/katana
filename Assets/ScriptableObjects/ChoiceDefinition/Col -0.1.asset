@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ccb34477404594d839463bf9dc3361, type: 3}
+  m_Name: Col -0.1
+  m_EditorClassIdentifier: 
+  title: "\uC2E0\uC18D \uC815\uD655"
+  description: "\uB0B4 \uAC80\uC740 \uB208\uBCF4\uB2E4 \uBE60\uB974\uC9C0...\n\n(\uACF5\uACA9\uC18D\uB3C4
+    \uC18C\uD3ED \uAC10\uC18C)"
+  type: 0
+  icon: {fileID: -6943046695594277507, guid: 0075ecc07bc98ea429d997472084adbd, type: 3}
+  background: {fileID: 0}
+  addAttack: 0
+  addMaxHp: 0
+  addMoveSpeed: 0.1
+  addDashCooldownDelta: 0
+  healOnKill: 0
+  healOnKillAmount: 0
+  healOnRoundClear: 0
+  healOnRoundClearAmount: 0
+  activeSkillPrefab: {fileID: 0}

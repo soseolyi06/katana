@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ccb34477404594d839463bf9dc3361, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  title: 11
+  description: 11
+  type: 0
+  icon: {fileID: 0}
+  background: {fileID: 0}
+  addAttack: 10
+  addMaxHp: 10
+  addMoveSpeed: 2
+  addDashCooldownDelta: 0.4
+  healOnKill: 0
+  healOnKillAmount: 0
+  healOnRoundClear: 0
+  healOnRoundClearAmount: 0
+  activeSkillPrefab: {fileID: 0}

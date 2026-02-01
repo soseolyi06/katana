@@ -1,0 +1,7150 @@
+fileFormatVersion: 2
+guid: aa99a6c20cf42ec43a2f1e98917185d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6063238928031453004
+    second: Fire Effect and Bullet_0
+  - first:
+      213: -761617844698280511
+    second: Fire Effect and Bullet_1
+  - first:
+      213: 8550666539291657475
+    second: Fire Effect and Bullet_2
+  - first:
+      213: -3570425790770477958
+    second: Fire Effect and Bullet_3
+  - first:
+      213: -8167841809208429832
+    second: Fire Effect and Bullet_4
+  - first:
+      213: -4530497833191817023
+    second: Fire Effect and Bullet_5
+  - first:
+      213: 8984905740748919837
+    second: Fire Effect and Bullet_6
+  - first:
+      213: -6561204490461558386
+    second: Fire Effect and Bullet_7
+  - first:
+      213: 6255079305778537822
+    second: Fire Effect and Bullet_8
+  - first:
+      213: -5346132723201544746
+    second: Fire Effect and Bullet_9
+  - first:
+      213: 2238151945778314473
+    second: Fire Effect and Bullet_10
+  - first:
+      213: 3622241196891010672
+    second: Fire Effect and Bullet_11
+  - first:
+      213: -1916457163985441628
+    second: Fire Effect and Bullet_12
+  - first:
+      213: 6701932212816730023
+    second: Fire Effect and Bullet_13
+  - first:
+      213: -8806455826085694814
+    second: Fire Effect and Bullet_14
+  - first:
+      213: -1891940791697986996
+    second: Fire Effect and Bullet_15
+  - first:
+      213: 5766221916563151236
+    second: Fire Effect and Bullet_16
+  - first:
+      213: -1782221824183967892
+    second: Fire Effect and Bullet_17
+  - first:
+      213: 3448534330554508832
+    second: Fire Effect and Bullet_18
+  - first:
+      213: 5345143511273936490
+    second: Fire Effect and Bullet_19
+  - first:
+      213: 724582331065319425
+    second: Fire Effect and Bullet_20
+  - first:
+      213: 1124483721123654912
+    second: Fire Effect and Bullet_21
+  - first:
+      213: 7781166348168646170
+    second: Fire Effect and Bullet_22
+  - first:
+      213: 9097537982497112624
+    second: Fire Effect and Bullet_23
+  - first:
+      213: 734052457577461180
+    second: Fire Effect and Bullet_24
+  - first:
+      213: 6232163739833285456
+    second: Fire Effect and Bullet_25
+  - first:
+      213: -7104286834287437663
+    second: Fire Effect and Bullet_26
+  - first:
+      213: -2721210756134519848
+    second: Fire Effect and Bullet_27
+  - first:
+      213: 4596778823128096477
+    second: Fire Effect and Bullet_28
+  - first:
+      213: -5684754705062183545
+    second: Fire Effect and Bullet_29
+  - first:
+      213: -3674000026722186822
+    second: Fire Effect and Bullet_30
+  - first:
+      213: 7777762231313993693
+    second: Fire Effect and Bullet_31
+  - first:
+      213: 8044011372743101896
+    second: Fire Effect and Bullet_32
+  - first:
+      213: -6595474780583659776
+    second: Fire Effect and Bullet_33
+  - first:
+      213: 3421286306230031515
+    second: Fire Effect and Bullet_34
+  - first:
+      213: 7303945825682772979
+    second: Fire Effect and Bullet_35
+  - first:
+      213: -3839186908728508557
+    second: Fire Effect and Bullet_36
+  - first:
+      213: -6637650887696352096
+    second: Fire Effect and Bullet_37
+  - first:
+      213: 8967307641737171838
+    second: Fire Effect and Bullet_38
+  - first:
+      213: -9151422743008411822
+    second: Fire Effect and Bullet_39
+  - first:
+      213: 8067128163702809211
+    second: Fire Effect and Bullet_40
+  - first:
+      213: 8714523766642896849
+    second: Fire Effect and Bullet_41
+  - first:
+      213: 3976888875140773134
+    second: Fire Effect and Bullet_42
+  - first:
+      213: 4271168061420294834
+    second: Fire Effect and Bullet_43
+  - first:
+      213: 1564616479107925709
+    second: Fire Effect and Bullet_44
+  - first:
+      213: -1090984246939161534
+    second: Fire Effect and Bullet_45
+  - first:
+      213: -93737698992916319
+    second: Fire Effect and Bullet_46
+  - first:
+      213: 6076276573950680751
+    second: Fire Effect and Bullet_47
+  - first:
+      213: 1016001096031913106
+    second: Fire Effect and Bullet_48
+  - first:
+      213: 3352716375139594481
+    second: Fire Effect and Bullet_49
+  - first:
+      213: -5791064926801039174
+    second: Fire Effect and Bullet_50
+  - first:
+      213: 7563925180558477571
+    second: Fire Effect and Bullet_51
+  - first:
+      213: 5039328836115782276
+    second: Fire Effect and Bullet_52
+  - first:
+      213: -8964840857398338279
+    second: Fire Effect and Bullet_53
+  - first:
+      213: 8816133365933190530
+    second: Fire Effect and Bullet_54
+  - first:
+      213: -3142494477039863376
+    second: Fire Effect and Bullet_55
+  - first:
+      213: -3834435714865454432
+    second: Fire Effect and Bullet_56
+  - first:
+      213: -5133937740925367321
+    second: Fire Effect and Bullet_57
+  - first:
+      213: 4306312089653705480
+    second: Fire Effect and Bullet_58
+  - first:
+      213: -4587098304550478436
+    second: Fire Effect and Bullet_59
+  - first:
+      213: 4898571618228103467
+    second: Fire Effect and Bullet_60
+  - first:
+      213: 8669966278407929591
+    second: Fire Effect and Bullet_61
+  - first:
+      213: 7918264326553724375
+    second: Fire Effect and Bullet_62
+  - first:
+      213: 7560220652695529307
+    second: Fire Effect and Bullet_63
+  - first:
+      213: -4476319554091832409
+    second: Fire Effect and Bullet_64
+  - first:
+      213: 2284136270501454877
+    second: Fire Effect and Bullet_65
+  - first:
+      213: 747677612917351109
+    second: Fire Effect and Bullet_66
+  - first:
+      213: -7954320194773667677
+    second: Fire Effect and Bullet_67
+  - first:
+      213: -5305467938910522721
+    second: Fire Effect and Bullet_68
+  - first:
+      213: 7845465539313775409
+    second: Fire Effect and Bullet_69
+  - first:
+      213: -6414952227190802009
+    second: Fire Effect and Bullet_70
+  - first:
+      213: -3472131048623825751
+    second: Fire Effect and Bullet_71
+  - first:
+      213: -1283909831126650497
+    second: Fire Effect and Bullet_72
+  - first:
+      213: 1962699264046708371
+    second: Fire Effect and Bullet_73
+  - first:
+      213: 2049299138166893937
+    second: Fire Effect and Bullet_74
+  - first:
+      213: -1946827921992537020
+    second: Fire Effect and Bullet_75
+  - first:
+      213: -338086174832130287
+    second: Fire Effect and Bullet_76
+  - first:
+      213: -6387623667693231819
+    second: Fire Effect and Bullet_77
+  - first:
+      213: -3797138511995649188
+    second: Fire Effect and Bullet_78
+  - first:
+      213: -4482417374020936791
+    second: Fire Effect and Bullet_79
+  - first:
+      213: 4575641675656389928
+    second: Fire Effect and Bullet_80
+  - first:
+      213: 4396298574963048651
+    second: Fire Effect and Bullet_81
+  - first:
+      213: 4657196990504630397
+    second: Fire Effect and Bullet_82
+  - first:
+      213: 8381009700077554446
+    second: Fire Effect and Bullet_83
+  - first:
+      213: 271650986348981885
+    second: Fire Effect and Bullet_84
+  - first:
+      213: -2672437784679682599
+    second: Fire Effect and Bullet_85
+  - first:
+      213: 3729089835705416582
+    second: Fire Effect and Bullet_86
+  - first:
+      213: -4162989226103877852
+    second: Fire Effect and Bullet_87
+  - first:
+      213: -7875940951566074717
+    second: Fire Effect and Bullet_88
+  - first:
+      213: 6477991397317139207
+    second: Fire Effect and Bullet_89
+  - first:
+      213: 5370702490689421110
+    second: Fire Effect and Bullet_90
+  - first:
+      213: -4213064319069960673
+    second: Fire Effect and Bullet_91
+  - first:
+      213: -8546685546071199330
+    second: Fire Effect and Bullet_92
+  - first:
+      213: -2523402879991397675
+    second: Fire Effect and Bullet_93
+  - first:
+      213: -5499866332978886694
+    second: Fire Effect and Bullet_94
+  - first:
+      213: -4935413708115610549
+    second: Fire Effect and Bullet_95
+  - first:
+      213: -7717090741337883859
+    second: Fire Effect and Bullet_96
+  - first:
+      213: -3218954145108424600
+    second: Fire Effect and Bullet_97
+  - first:
+      213: -1782543956299393263
+    second: Fire Effect and Bullet_98
+  - first:
+      213: 6163238154903999003
+    second: Fire Effect and Bullet_99
+  - first:
+      213: -3366741926236662538
+    second: Fire Effect and Bullet_100
+  - first:
+      213: 4278641359696793074
+    second: Fire Effect and Bullet_101
+  - first:
+      213: -2720418894221882669
+    second: Fire Effect and Bullet_102
+  - first:
+      213: -1510735344301081152
+    second: Fire Effect and Bullet_103
+  - first:
+      213: 4530633363335362279
+    second: Fire Effect and Bullet_104
+  - first:
+      213: -7743291794547296892
+    second: Fire Effect and Bullet_105
+  - first:
+      213: 5380605603620184235
+    second: Fire Effect and Bullet_106
+  - first:
+      213: -5822329895131029419
+    second: Fire Effect and Bullet_107
+  - first:
+      213: 6258210816606923784
+    second: Fire Effect and Bullet_108
+  - first:
+      213: -6560526242045784127
+    second: Fire Effect and Bullet_109
+  - first:
+      213: 8813173942758523946
+    second: Fire Effect and Bullet_110
+  - first:
+      213: 1943372181408734125
+    second: Fire Effect and Bullet_111
+  - first:
+      213: 3443358381152071968
+    second: Fire Effect and Bullet_112
+  - first:
+      213: -6095739633736540363
+    second: Fire Effect and Bullet_113
+  - first:
+      213: 6477229828749238281
+    second: Fire Effect and Bullet_114
+  - first:
+      213: 8417180925079319740
+    second: Fire Effect and Bullet_115
+  - first:
+      213: -1217679284555556397
+    second: Fire Effect and Bullet_116
+  - first:
+      213: 4002202759716699117
+    second: Fire Effect and Bullet_117
+  - first:
+      213: 4257117346811220726
+    second: Fire Effect and Bullet_118
+  - first:
+      213: -4464997477512922736
+    second: Fire Effect and Bullet_119
+  - first:
+      213: 4186056316429415933
+    second: Fire Effect and Bullet_120
+  - first:
+      213: 7563522904196030536
+    second: Fire Effect and Bullet_121
+  - first:
+      213: 1842826592843845937
+    second: Fire Effect and Bullet_122
+  - first:
+      213: -2544796748400968867
+    second: Fire Effect and Bullet_123
+  - first:
+      213: 1150460498562646303
+    second: Fire Effect and Bullet_124
+  - first:
+      213: 6501041671888742045
+    second: Fire Effect and Bullet_125
+  - first:
+      213: -7386991592566562658
+    second: Fire Effect and Bullet_126
+  - first:
+      213: -4310426104378725554
+    second: Fire Effect and Bullet_127
+  - first:
+      213: -8937266958671924319
+    second: Fire Effect and Bullet_128
+  - first:
+      213: 269550062404483650
+    second: Fire Effect and Bullet_129
+  - first:
+      213: -5143998471706027983
+    second: Fire Effect and Bullet_130
+  - first:
+      213: -4259069891596946795
+    second: Fire Effect and Bullet_131
+  - first:
+      213: -8579339770390310139
+    second: Fire Effect and Bullet_132
+  - first:
+      213: 1335225195306550564
+    second: Fire Effect and Bullet_133
+  - first:
+      213: -7975713530753727374
+    second: Fire Effect and Bullet_134
+  - first:
+      213: -1590694582039139700
+    second: Fire Effect and Bullet_135
+  - first:
+      213: -3421644915183329398
+    second: Fire Effect and Bullet_136
+  - first:
+      213: 8584715711076109536
+    second: Fire Effect and Bullet_137
+  - first:
+      213: 6404340637116890438
+    second: Fire Effect and Bullet_138
+  - first:
+      213: -6370440547159493331
+    second: Fire Effect and Bullet_139
+  - first:
+      213: -2494415424184897921
+    second: Fire Effect and Bullet_140
+  - first:
+      213: 1760693059472196785
+    second: Fire Effect and Bullet_141
+  - first:
+      213: -6424146473472046444
+    second: Fire Effect and Bullet_142
+  - first:
+      213: 8599905618020561585
+    second: Fire Effect and Bullet_143
+  - first:
+      213: -1744071262780730314
+    second: Fire Effect and Bullet_144
+  - first:
+      213: 346662032861273603
+    second: Fire Effect and Bullet_145
+  - first:
+      213: -3547494092954440457
+    second: Fire Effect and Bullet_146
+  - first:
+      213: -1248691928889861994
+    second: Fire Effect and Bullet_147
+  - first:
+      213: 6793642809318467537
+    second: Fire Effect and Bullet_148
+  - first:
+      213: -6589746938684897060
+    second: Fire Effect and Bullet_149
+  - first:
+      213: -5734510992749537380
+    second: Fire Effect and Bullet_150
+  - first:
+      213: -1361141710262870942
+    second: Fire Effect and Bullet_151
+  - first:
+      213: -4907454281441382940
+    second: Fire Effect and Bullet_152
+  - first:
+      213: 6279137644214212997
+    second: Fire Effect and Bullet_153
+  - first:
+      213: -443247254557737824
+    second: Fire Effect and Bullet_154
+  - first:
+      213: -7192749469705295746
+    second: Fire Effect and Bullet_155
+  - first:
+      213: 5451148369312604217
+    second: Fire Effect and Bullet_156
+  - first:
+      213: 2583682872684180971
+    second: Fire Effect and Bullet_157
+  - first:
+      213: 28039032831189396
+    second: Fire Effect and Bullet_158
+  - first:
+      213: 7641958375172195707
+    second: Fire Effect and Bullet_159
+  - first:
+      213: -4771536838137933289
+    second: Fire Effect and Bullet_160
+  - first:
+      213: 9036343133810838680
+    second: Fire Effect and Bullet_161
+  - first:
+      213: -1030019167841112987
+    second: Fire Effect and Bullet_162
+  - first:
+      213: 1633714334714433445
+    second: Fire Effect and Bullet_163
+  - first:
+      213: 4479424503987362719
+    second: Fire Effect and Bullet_164
+  - first:
+      213: 3587485092625006447
+    second: Fire Effect and Bullet_165
+  - first:
+      213: 2831615069941214061
+    second: Fire Effect and Bullet_166
+  - first:
+      213: -4974878164102954200
+    second: Fire Effect and Bullet_167
+  - first:
+      213: -7631555588801209756
+    second: Fire Effect and Bullet_168
+  - first:
+      213: -5613093931374361024
+    second: Fire Effect and Bullet_169
+  - first:
+      213: -4267887595787815114
+    second: Fire Effect and Bullet_170
+  - first:
+      213: -6545207742936197956
+    second: Fire Effect and Bullet_171
+  - first:
+      213: -7430929410076883226
+    second: Fire Effect and Bullet_172
+  - first:
+      213: 1371877751127930810
+    second: Fire Effect and Bullet_173
+  - first:
+      213: 3320155334787308886
+    second: Fire Effect and Bullet_174
+  - first:
+      213: -1397081022975077634
+    second: Fire Effect and Bullet_175
+  - first:
+      213: 7358013151353199007
+    second: Fire Effect and Bullet_176
+  - first:
+      213: -4551623791252780962
+    second: Fire Effect and Bullet_177
+  - first:
+      213: 7708162062791978162
+    second: Fire Effect and Bullet_178
+  - first:
+      213: -652336968883279392
+    second: Fire Effect and Bullet_179
+  - first:
+      213: -2381733676371539250
+    second: Fire Effect and Bullet_180
+  - first:
+      213: -7678088123317430022
+    second: Fire Effect and Bullet_181
+  - first:
+      213: -7411374093518217585
+    second: Fire Effect and Bullet_182
+  - first:
+      213: 5619324169345934496
+    second: Fire Effect and Bullet_183
+  - first:
+      213: 5663857215734515954
+    second: Fire Effect and Bullet_184
+  - first:
+      213: -2177028281975898760
+    second: Fire Effect and Bullet_185
+  - first:
+      213: -1670124376431345473
+    second: Fire Effect and Bullet_186
+  - first:
+      213: 4454081714040939951
+    second: Fire Effect and Bullet_187
+  - first:
+      213: 1241235904843669500
+    second: Fire Effect and Bullet_188
+  - first:
+      213: -1277057636896157722
+    second: Fire Effect and Bullet_189
+  - first:
+      213: 1837705763783037234
+    second: Fire Effect and Bullet_190
+  - first:
+      213: 4710577374979960944
+    second: Fire Effect and Bullet_191
+  - first:
+      213: -6733833301960757801
+    second: Fire Effect and Bullet_192
+  - first:
+      213: 910790848439854950
+    second: Fire Effect and Bullet_193
+  - first:
+      213: 7816670789087618000
+    second: Fire Effect and Bullet_194
+  - first:
+      213: 152145843035663043
+    second: Fire Effect and Bullet_195
+  - first:
+      213: 8085629792298596681
+    second: Fire Effect and Bullet_196
+  - first:
+      213: -3388070711321805716
+    second: Fire Effect and Bullet_197
+  - first:
+      213: 5871099936624353586
+    second: Fire Effect and Bullet_198
+  - first:
+      213: -8886313303161695500
+    second: Fire Effect and Bullet_199
+  - first:
+      213: -4388898575015273567
+    second: Fire Effect and Bullet_200
+  - first:
+      213: -3798758212812313348
+    second: Fire Effect and Bullet_201
+  - first:
+      213: 6481049314710054909
+    second: Fire Effect and Bullet_202
+  - first:
+      213: 8381945110347883508
+    second: Fire Effect and Bullet_203
+  - first:
+      213: -40256026081101521
+    second: Fire Effect and Bullet_204
+  - first:
+      213: 1117520628172452068
+    second: Fire Effect and Bullet_205
+  - first:
+      213: -9110801582483427617
+    second: Fire Effect and Bullet_206
+  - first:
+      213: 6581532022475471256
+    second: Fire Effect and Bullet_207
+  - first:
+      213: 7046167467353522701
+    second: Fire Effect and Bullet_208
+  - first:
+      213: 6426739321898987859
+    second: Fire Effect and Bullet_209
+  - first:
+      213: -7291170361869556703
+    second: Fire Effect and Bullet_210
+  - first:
+      213: 4248226681248179879
+    second: Fire Effect and Bullet_211
+  - first:
+      213: 7283754733937024658
+    second: Fire Effect and Bullet_212
+  - first:
+      213: -6465409857595805009
+    second: Fire Effect and Bullet_213
+  - first:
+      213: 4545773028116838557
+    second: Fire Effect and Bullet_214
+  - first:
+      213: -5604971070311639178
+    second: Fire Effect and Bullet_215
+  - first:
+      213: -3334631320607104770
+    second: Fire Effect and Bullet_216
+  - first:
+      213: -7958133908229458691
+    second: Fire Effect and Bullet_217
+  - first:
+      213: -2512130215649635955
+    second: Fire Effect and Bullet_218
+  - first:
+      213: -5794604221585087603
+    second: Fire Effect and Bullet_219
+  - first:
+      213: -4685467697117473068
+    second: Fire Effect and Bullet_220
+  - first:
+      213: 7397979058519501101
+    second: Fire Effect and Bullet_221
+  - first:
+      213: 5294253163722536022
+    second: Fire Effect and Bullet_222
+  - first:
+      213: 8328533323455709450
+    second: Fire Effect and Bullet_223
+  - first:
+      213: 1160196390415588881
+    second: Fire Effect and Bullet_224
+  - first:
+      213: -7345981023755294453
+    second: Fire Effect and Bullet_225
+  - first:
+      213: 679401679500376120
+    second: Fire Effect and Bullet_226
+  - first:
+      213: 6487283732766765267
+    second: Fire Effect and Bullet_227
+  - first:
+      213: -904838323592457913
+    second: Fire Effect and Bullet_228
+  - first:
+      213: -725850095195688623
+    second: Fire Effect and Bullet_229
+  - first:
+      213: 6672869901251966891
+    second: Fire Effect and Bullet_230
+  - first:
+      213: 3235237664922922742
+    second: Fire Effect and Bullet_231
+  - first:
+      213: 5836385569788221319
+    second: Fire Effect and Bullet_232
+  - first:
+      213: 1649355568950425804
+    second: Fire Effect and Bullet_233
+  - first:
+      213: 4407458455231877234
+    second: Fire Effect and Bullet_234
+  - first:
+      213: 3490773602751031784
+    second: Fire Effect and Bullet_235
+  - first:
+      213: 7642925024341025171
+    second: Fire Effect and Bullet_236
+  - first:
+      213: -7862136202459650609
+    second: Fire Effect and Bullet_237
+  - first:
+      213: -6317375289461769563
+    second: Fire Effect and Bullet_238
+  - first:
+      213: 2843210354608497987
+    second: Fire Effect and Bullet_239
+  - first:
+      213: -1132885088706436608
+    second: Fire Effect and Bullet_240
+  - first:
+      213: -6609465909588519001
+    second: Fire Effect and Bullet_241
+  - first:
+      213: -2555058213881207304
+    second: Fire Effect and Bullet_242
+  - first:
+      213: 277303883734094311
+    second: Fire Effect and Bullet_243
+  - first:
+      213: -8568274913509262516
+    second: Fire Effect and Bullet_244
+  - first:
+      213: -6203864759675437111
+    second: Fire Effect and Bullet_245
+  - first:
+      213: -4470578942367896180
+    second: Fire Effect and Bullet_246
+  - first:
+      213: 7410731726543050107
+    second: Fire Effect and Bullet_247
+  - first:
+      213: -4504373687348475514
+    second: Fire Effect and Bullet_248
+  - first:
+      213: 3271180726253811060
+    second: Fire Effect and Bullet_249
+  - first:
+      213: 4482099182741628348
+    second: Fire Effect and Bullet_250
+  - first:
+      213: 486181886432039202
+    second: Fire Effect and Bullet_251
+  - first:
+      213: 2971977473692363329
+    second: Fire Effect and Bullet_252
+  - first:
+      213: 5247905596219942583
+    second: Fire Effect and Bullet_253
+  - first:
+      213: 3484555746213258166
+    second: Fire Effect and Bullet_254
+  - first:
+      213: 8246777917525601445
+    second: Fire Effect and Bullet_255
+  - first:
+      213: 8957707914028696846
+    second: Fire Effect and Bullet_256
+  - first:
+      213: -6230141899941242151
+    second: Fire Effect and Bullet_257
+  - first:
+      213: 5410014133317536804
+    second: Fire Effect and Bullet_258
+  - first:
+      213: 2544843667343128191
+    second: Fire Effect and Bullet_259
+  - first:
+      213: -1170004744338064961
+    second: Fire Effect and Bullet_260
+  - first:
+      213: 4856345112980490834
+    second: Fire Effect and Bullet_261
+  - first:
+      213: -3674411710147069519
+    second: Fire Effect and Bullet_262
+  - first:
+      213: -2117831182018299281
+    second: Fire Effect and Bullet_263
+  - first:
+      213: -3288095016893785634
+    second: Fire Effect and Bullet_264
+  - first:
+      213: 1352627362199329876
+    second: Fire Effect and Bullet_265
+  - first:
+      213: -3264422492625259409
+    second: Fire Effect and Bullet_266
+  - first:
+      213: 2240383653026827256
+    second: Fire Effect and Bullet_267
+  - first:
+      213: 1222671031821845424
+    second: Fire Effect and Bullet_268
+  - first:
+      213: 9007805937835727193
+    second: Fire Effect and Bullet_269
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b07d52c15c0bdba0800000000000000
+      internalID: -6063238928031453004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 175
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd09200b903e65f0800000000000000
+      internalID: -761617844698280511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3054c430ae11aa670800000000000000
+      internalID: 8550666539291657475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a748b3409ac437ec0800000000000000
+      internalID: -3570425790770477958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 175
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23c8c462ff5ae80800000000000000
+      internalID: -8167841809208429832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 175
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ccec69307021c0800000000000000
+      internalID: -4530497833191817023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 175
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1415b9ca2cc0bc70800000000000000
+      internalID: 8984905740748919837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e894757574be1f4a0800000000000000
+      internalID: -6561204490461558386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55a3dedc718ec650800000000000000
+      internalID: 6255079305778537822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 186
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddea7ffc98bec5b0800000000000000
+      internalID: -5346132723201544746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 191
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec377126538f0f10800000000000000
+      internalID: 2238151945778314473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 175
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07679775d29c44230800000000000000
+      internalID: 3622241196891010672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2569fc506765e0800000000000000
+      internalID: -1916457163985441628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 182
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a750b5d6db020d50800000000000000
+      internalID: 6701932212816730023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 191
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23ef3b51f29c580800000000000000
+      internalID: -8806455826085694814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a25c6bfd97eb5e0800000000000000
+      internalID: -1891940791697986996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 195
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48991d8484cb50050800000000000000
+      internalID: 5766221916563151236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 195
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fd09a81b64447e0800000000000000
+      internalID: -1782221824183967892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 195
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026e078d3b7abdf20800000000000000
+      internalID: 3448534330554508832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 195
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6697f624b3cd2a40800000000000000
+      internalID: 5345143511273936490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1004ca58acb3e0a00800000000000000
+      internalID: 724582331065319425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00de8419cf7fa9f00800000000000000
+      internalID: 1124483721123654912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_22
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec0d831914cfb60800000000000000
+      internalID: 7781166348168646170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324d512892f04e70800000000000000
+      internalID: 9097537982497112624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 164
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5386c22d0ef2a00800000000000000
+      internalID: 734052457577461180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b35d6e6e71d7650800000000000000
+      internalID: 6232163739833285456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 177
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a810dba3c0886d90800000000000000
+      internalID: -7104286834287437663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 177
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db31a12c315c3ad0800000000000000
+      internalID: -2721210756134519848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 177
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde969f1cf90bcf30800000000000000
+      internalID: 4596778823128096477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78db98107b1bb11b0800000000000000
+      internalID: -5684754705062183545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9c27ef074530dc0800000000000000
+      internalID: -3674000026722186822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 178
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf8be08a8920fb60800000000000000
+      internalID: 7777762231313993693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 179
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd0e8979b112af60800000000000000
+      internalID: 8044011372743101896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0077342a1aa2874a0800000000000000
+      internalID: -6595474780583659776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94dfbdc4c9da7f20800000000000000
+      internalID: 3421286306230031515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_35
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d48ec704dc5560800000000000000
+      internalID: 7303945825682772979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_36
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 179
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f38eee8d778bac0800000000000000
+      internalID: -3839186908728508557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_37
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7dc77fa352e3a0800000000000000
+      internalID: -6637650887696352096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 175
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73d3611ac6427c70800000000000000
+      internalID: 8967307641737171838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f7d85608d9ff080800000000000000
+      internalID: -9151422743008411822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_40
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 176
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b722e0bc25234ff60800000000000000
+      internalID: 8067128163702809211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_41
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 175
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe279b13530f870800000000000000
+      internalID: 8714523766642896849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 176
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05f7f98c5fb03730800000000000000
+      internalID: 3976888875140773134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 185
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b253f4e8bc364b30800000000000000
+      internalID: 4271168061420294834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_44
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc643f6e562a6b510800000000000000
+      internalID: 1564616479107925709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_45
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ce4a19b9b0cd0f0800000000000000
+      internalID: -1090984246939161534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 184
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f6753f0af2bef0800000000000000
+      internalID: -93737698992916319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae9b5bb955435450800000000000000
+      internalID: 6076276573950680751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c3642d9f891e00800000000000000
+      internalID: 1016001096031913106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0b4dc97cd378e20800000000000000
+      internalID: 3352716375139594481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0fcc6a12102afa0800000000000000
+      internalID: -5791064926801039174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 143
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30902d650e578f860800000000000000
+      internalID: 7563925180558477571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a501f70ea4fe540800000000000000
+      internalID: 5039328836115782276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d1ddaecbc769380800000000000000
+      internalID: -8964840857398338279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 159
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28daae02692395a70800000000000000
+      internalID: 8816133365933190530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 159
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9796b3ced9364d0800000000000000
+      internalID: -3142494477039863376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2af55780959cac0800000000000000
+      internalID: -3834435714865454432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb0c2d43d690c8b0800000000000000
+      internalID: -5133937740925367321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b77cb970813cb30800000000000000
+      internalID: 4306312089653705480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dd87f356a5750c0800000000000000
+      internalID: -4587098304550478436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29eb4bdee83bf340800000000000000
+      internalID: 4898571618228103467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_61
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7febe1f0568e15870800000000000000
+      internalID: 8669966278407929591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_62
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 164
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e1e5c37353ed60800000000000000
+      internalID: 7918264326553724375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_63
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572d7bb0ac4be860800000000000000
+      internalID: 7560220652695529307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba835051be0e1c0800000000000000
+      internalID: -4476319554091832409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 156
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1423dd06d1e2bf10800000000000000
+      internalID: 2284136270501454877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_66
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 133
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2637cd3d8406a00800000000000000
+      internalID: 747677612917351109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_67
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0bcc83de39c9190800000000000000
+      internalID: -7954320194773667677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 159
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b306e4013f56b0800000000000000
+      internalID: -5305467938910522721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133bd584751b0ec60800000000000000
+      internalID: 7845465539313775409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_70
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 160
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9f03fefe289f6a0800000000000000
+      internalID: -6414952227190802009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac1c29153380dfc0800000000000000
+      internalID: -3472131048623825751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f717010afc2ae2ee0800000000000000
+      internalID: -1283909831126650497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396bc62f498ec3b10800000000000000
+      internalID: 1962699264046708371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 149
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17da3f065b2907c10800000000000000
+      internalID: 2049299138166893937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 146
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca2d6d15a7bf4e0800000000000000
+      internalID: -1946827921992537020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 136
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11709ad4a60ee4bf0800000000000000
+      internalID: -338086174832130287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 135
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53164480e1a9a57a0800000000000000
+      internalID: -6387623667693231819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c534b8534aadd4bc0800000000000000
+      internalID: -3797138511995649188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_79
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 145
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab517ea5214bc1c0800000000000000
+      internalID: -4482417374020936791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_80
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e8f87cd1ff7f30800000000000000
+      internalID: 4575641675656389928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_81
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 146
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08a37e24ac20d30800000000000000
+      internalID: 4396298574963048651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_82
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78fb0cecffa1a040800000000000000
+      internalID: 4657196990504630397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_83
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 147
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bc930fae35f4470800000000000000
+      internalID: 8381009700077554446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_84
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2730022915c300800000000000000
+      internalID: 271650986348981885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_85
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 147
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dde5d77ef799ead0800000000000000
+      internalID: -2672437784679682599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bbdb0b27360c330800000000000000
+      internalID: 3729089835705416582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_87
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 146
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fcc46fa571a36c0800000000000000
+      internalID: -4162989226103877852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acb3fdde6903b290800000000000000
+      internalID: -7875940951566074717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_89
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 143
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bdf1f9ad276e950800000000000000
+      internalID: 6477991397317139207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_90
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 148
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f39d7c571988a40800000000000000
+      internalID: 5370702490689421110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_91
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1646f5d2503885c0800000000000000
+      internalID: -4213064319069960673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_92
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91f57337c2146980800000000000000
+      internalID: -8546685546071199330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_93
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 134
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d24ae043721bfcd0800000000000000
+      internalID: -2523402879991397675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_94
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 147
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c9aea5bc8ca3b0800000000000000
+      internalID: -5499866332978886694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_95
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44fc24a163e18bb0800000000000000
+      internalID: -4935413708115610549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_96
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b791f8bd267e490800000000000000
+      internalID: -7717090741337883859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 79
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8688a80824af353d0800000000000000
+      internalID: -3218954145108424600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_98
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117514057b12347e0800000000000000
+      internalID: -1782543956299393263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12df299278388550800000000000000
+      internalID: 6163238154903999003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4df3c4e0ee641d0800000000000000
+      internalID: -3366741926236662538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_101
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 118
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd850eb5a9c06b30800000000000000
+      internalID: 4278641359696793074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_102
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dac4a9dd612f3ad0800000000000000
+      internalID: -2720418894221882669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd7e45653ac80be0800000000000000
+      internalID: -1510735344301081152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e633252a0b00ee30800000000000000
+      internalID: 4530633363335362279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_105
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 130
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485bfc9732d4a8490800000000000000
+      internalID: -7743291794547296892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_106
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 111
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0e140f940cbaa40800000000000000
+      internalID: 5380605603620184235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_107
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e393fecde23fa0800000000000000
+      internalID: -5822329895131029419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_108
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cec5d8491a9d650800000000000000
+      internalID: 6258210816606923784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_109
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf8b3b542454f4a0800000000000000
+      internalID: -6560526242045784127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_110
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24c9d9b10fae4a70800000000000000
+      internalID: 8813173942758523946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5e3bd3be38fa10800000000000000
+      internalID: 1943372181408734125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_112
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021fee6343449cf20800000000000000
+      internalID: 3443358381152071968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_113
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f1dd78915976ba0800000000000000
+      internalID: -6095739633736540363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_114
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900a92f163eb3e950800000000000000
+      internalID: 6477229828749238281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_115
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4fb898475dfc470800000000000000
+      internalID: 8417180925079319740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d6b9642fe91fe0800000000000000
+      internalID: -1217679284555556397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_117
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb7004943eaa8730800000000000000
+      internalID: 4002202759716699117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f216d7fba1541b30800000000000000
+      internalID: 4257117346811220726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_119
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099b3d563742902c0800000000000000
+      internalID: -4464997477512922736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df53e868a0cd71a30800000000000000
+      internalID: 4186056316429415933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_121
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 114
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840a223120807f860800000000000000
+      internalID: 7563522904196030536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_122
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 97
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131d911c509039910800000000000000
+      internalID: 1842826592843845937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_123
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bbdf917d01facd0800000000000000
+      internalID: -2544796748400968867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1102f06ab147ff00800000000000000
+      internalID: 1150460498562646303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96a0f2e4f6583a50800000000000000
+      internalID: 6501041671888742045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_126
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90e546d8422c7990800000000000000
+      internalID: -7386991592566562658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_127
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b6fe1bb4a4e24c0800000000000000
+      internalID: -4310426104378725554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_128
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 114
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a336818d0378f380800000000000000
+      internalID: -8937266958671924319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_129
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 115
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24abdc68a52adb300800000000000000
+      internalID: 269550062404483650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_130
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 101
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385fc0e4a8dc98b0800000000000000
+      internalID: -5143998471706027983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927dc5cf7eb4e4c0800000000000000
+      internalID: -4259069891596946795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_132
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50311822fef00f880800000000000000
+      internalID: -8579339770390310139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_133
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4250665ad3ca78210800000000000000
+      internalID: 1335225195306550564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_134
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 112
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274c5290dc2905190800000000000000
+      internalID: -7975713530753727374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a2b6b94b7bce9e0800000000000000
+      internalID: -1590694582039139700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_136
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd9fa0410e380d0800000000000000
+      internalID: -3421644915183329398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec08689479032770800000000000000
+      internalID: 8584715711076109536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_138
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d73f7b0e9c0e850800000000000000
+      internalID: 6404340637116890438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_139
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2530db0316a797a0800000000000000
+      internalID: -6370440547159493331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_140
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 95
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e243f336e026dd0800000000000000
+      internalID: -2494415424184897921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_141
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b40650520d3f6810800000000000000
+      internalID: 1760693059472196785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ace97a1d8d8d6a0800000000000000
+      internalID: -6424146473472046444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b270086890095770800000000000000
+      internalID: 8599905618020561585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_144
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 99
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634dcfe4d60dbc7e0800000000000000
+      internalID: -1744071262780730314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_145
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 100
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e9fcd38479fc400800000000000000
+      internalID: 346662032861273603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_146
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 99
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc67aafae4c4cec0800000000000000
+      internalID: -3547494092954440457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_147
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 98
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6985f987e41cbaee0800000000000000
+      internalID: -1248691928889861994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_148
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 79
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7605c042ed74e50800000000000000
+      internalID: 6793642809318467537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_149
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 95
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd808ffb2148c84a0800000000000000
+      internalID: -6589746938684897060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_150
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 95
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97579482acea60b0800000000000000
+      internalID: -5734510992749537380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_151
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 95
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c50de73d04c1de0800000000000000
+      internalID: -1361141710262870942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_152
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 81
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed6733f45835ebb0800000000000000
+      internalID: -4907454281441382940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_153
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 79
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589db2b4b6af32750800000000000000
+      internalID: 6279137644214212997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_154
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 100
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac3b6c68f449d9f0800000000000000
+      internalID: -443247254557737824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_155
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7826d357783e2c90800000000000000
+      internalID: -7192749469705295746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_156
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 97
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930e3da7f8e56ab40800000000000000
+      internalID: 5451148369312604217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_157
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 99
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5f99e32e51bd320800000000000000
+      internalID: 2583682872684180971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_158
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491afbf0a5d936000800000000000000
+      internalID: 28039032831189396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_159
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c57447a0bd0a60800000000000000
+      internalID: 7641958375172195707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_160
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7121912c68818cdb0800000000000000
+      internalID: -4771536838137933289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_161
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 83
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cc55f143a876d70800000000000000
+      internalID: 9036343133810838680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_162
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 81
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cacfc2603a4b1f0800000000000000
+      internalID: -1030019167841112987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_163
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af0e19188e1ca610800000000000000
+      internalID: 1633714334714433445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_164
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bd8567adc1a2e30800000000000000
+      internalID: 4479424503987362719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_165
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 83
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3ce63fae49c130800000000000000
+      internalID: 3587485092625006447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_166
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2d7057eaeb4720800000000000000
+      internalID: 2831615069941214061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_167
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823cbc3faaea5fab0800000000000000
+      internalID: -4974878164102954200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a5bdd20a4471690800000000000000
+      internalID: -7631555588801209756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_169
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c7811fc84a12b0800000000000000
+      internalID: -5613093931374361024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63775c708da65c4c0800000000000000
+      internalID: -4267887595787815114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_171
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 80
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d62d5c30ca25a0800000000000000
+      internalID: -6545207742936197956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_172
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 70
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e64d51821900e890800000000000000
+      internalID: -7430929410076883226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_173
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 47
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7fd3fcb83e90310800000000000000
+      internalID: 1371877751127930810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_174
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d9d11afaf831e20800000000000000
+      internalID: 3320155334787308886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_175
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 79
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2912f26329c9ce0800000000000000
+      internalID: -1397081022975077634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_176
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f995f0b0af9ec1660800000000000000
+      internalID: 7358013151353199007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_177
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e584923074265d0c0800000000000000
+      internalID: -4551623791252780962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_178
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcabd77e84e8fa60800000000000000
+      internalID: 7708162062791978162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_179
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96bd7abfe62f6f0800000000000000
+      internalID: -652336968883279392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_180
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 69
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca0a4e17d162fed0800000000000000
+      internalID: -2381733676371539250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_181
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d4873883f17590800000000000000
+      internalID: -7678088123317430022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_182
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e50527782852990800000000000000
+      internalID: -7411374093518217585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_183
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4a1af3f89dbfd40800000000000000
+      internalID: 5619324169345934496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8836a11201a9e40800000000000000
+      internalID: 5663857215734515954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_185
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87df8dadf44a9c1e0800000000000000
+      internalID: -2177028281975898760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_186
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c6147ab682d8e0800000000000000
+      internalID: -1670124376431345473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa529fd58b310dd30800000000000000
+      internalID: 4454081714040939951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_188
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffdaa6aa71c93110800000000000000
+      internalID: 1241235904843669500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_189
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efca1b68daf64ee0800000000000000
+      internalID: -1277057636896157722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_190
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231d9f3d7a7d08910800000000000000
+      internalID: 1837705763783037234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_191
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0703ca23a255f5140800000000000000
+      internalID: 4710577374979960944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_192
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 63
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddeeeb0a4e9c82a0800000000000000
+      internalID: -6733833301960757801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6672fe97377c3ac00800000000000000
+      internalID: 910790848439854950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_194
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d36dbd0ba46a7c60800000000000000
+      internalID: 7816670789087618000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_195
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca613096d78c1200800000000000000
+      internalID: 152145843035663043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_196
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949f543e47de53070800000000000000
+      internalID: 8085629792298596681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_197
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c32c983a72bf0d0800000000000000
+      internalID: -3388070711321805716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_198
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231205339465a7150800000000000000
+      internalID: 5871099936624353586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_199
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2183ae1297da480800000000000000
+      internalID: -8886313303161695500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_200
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab1ff8dfff7713c0800000000000000
+      internalID: -4388898575015273567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_201
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc69b93889184bc0800000000000000
+      internalID: -3798758212812313348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_202
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7e41f730051f950800000000000000
+      internalID: 6481049314710054909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_203
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ab1d1ba6a25470800000000000000
+      internalID: 8381945110347883508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_204
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29fd598b5bf07ff0800000000000000
+      internalID: -40256026081101521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_205
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 66
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0f367271b328f00800000000000000
+      internalID: 1117520628172452068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_206
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 66
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde22095b3eef8180800000000000000
+      internalID: -9110801582483427617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_207
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8993285018c465b50800000000000000
+      internalID: 6581532022475471256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_208
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d024587baf309c160800000000000000
+      internalID: 7046167467353522701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_209
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351f2d9ec5d503950800000000000000
+      internalID: 6426739321898987859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_210
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124a8e7af2f80da90800000000000000
+      internalID: -7291170361869556703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6622598abb4fa30800000000000000
+      internalID: 4248226681248179879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_212
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ed26be658151560800000000000000
+      internalID: 7283754733937024658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_213
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa271be5dff3646a0800000000000000
+      internalID: -6465409857595805009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_214
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98b47a0c74d51f30800000000000000
+      internalID: 4545773028116838557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_215
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677dbb902842732b0800000000000000
+      internalID: -5604971070311639178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_216
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef062564b7209b1d0800000000000000
+      internalID: -3334631320607104770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_217
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4fdfcdf570f8190800000000000000
+      internalID: -7958133908229458691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_218
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d819da2f0ee132dd0800000000000000
+      internalID: -2512130215649635955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_219
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83217e592e659fa0800000000000000
+      internalID: -5794604221585087603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_220
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6deb244ffd9feb0800000000000000
+      internalID: -4685467697117473068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_221
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2965dee1c6eaa660800000000000000
+      internalID: 7397979058519501101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_222
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6547ba6c337f87940800000000000000
+      internalID: 5294253163722536022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_223
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c4946ee4e49370800000000000000
+      internalID: 8328533323455709450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_224
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e59685878d91010800000000000000
+      internalID: 1160196390415588881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_225
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092e48fd25dd0a90800000000000000
+      internalID: -7345981023755294453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_226
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387c665a38bd6900800000000000000
+      internalID: 679401679500376120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_227
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bbb01f26770a50800000000000000
+      internalID: 6487283732766765267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_228
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 33
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7419c17b65e5173f0800000000000000
+      internalID: -904838323592457913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_229
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 35
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517da32f234de5f0800000000000000
+      internalID: -725850095195688623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_230
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 37
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f48022dbca9c50800000000000000
+      internalID: 6672869901251966891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_231
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fee1b5e38fd5ec20800000000000000
+      internalID: 3235237664922922742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_232
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7875173d0c10ff050800000000000000
+      internalID: 5836385569788221319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83a9bb620b3e610800000000000000
+      internalID: 1649355568950425804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_234
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27053620d107a2d30800000000000000
+      internalID: 4407458455231877234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_235
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92947c818b17030800000000000000
+      internalID: 3490773602751031784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_236
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3916ac0d0df111a60800000000000000
+      internalID: 7642925024341025171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_237
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc567ac77c414e290800000000000000
+      internalID: -7862136202459650609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_238
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 35
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aafcc625ac2458a0800000000000000
+      internalID: -6317375289461769563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_239
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e628e0cc157720800000000000000
+      internalID: 2843210354608497987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_240
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002e05c930f2740f0800000000000000
+      internalID: -1132885088706436608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_241
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a71cef06c57644a0800000000000000
+      internalID: -6609465909588519001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_242
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 33
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5aa2d771c9a8cd0800000000000000
+      internalID: -2555058213881207304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_243
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19eccb96e29d300800000000000000
+      internalID: 277303883734094311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_244
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 33
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb362ec5f571980800000000000000
+      internalID: -8568274913509262516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_245
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf3bfcded177e9a0800000000000000
+      internalID: -6203864759675437111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_246
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 32
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8de1d7532055f1c0800000000000000
+      internalID: -4470578942367896180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_247
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 32
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d056dd3538d660800000000000000
+      internalID: 7410731726543050107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_248
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 32
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6894afd1fff3d71c0800000000000000
+      internalID: -4504373687348475514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_249
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 27
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47576700a81956d20800000000000000
+      internalID: 3271180726253811060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_250
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 8
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb52263a57d933e30800000000000000
+      internalID: 4482099182741628348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_251
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d20d89d34fb600800000000000000
+      internalID: 486181886432039202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_252
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a65ef14c59e3920800000000000000
+      internalID: 2971977473692363329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_253
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 34
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6697dc55e44d840800000000000000
+      internalID: 5247905596219942583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_254
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3661d3df0ab5030800000000000000
+      internalID: 3484555746213258166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_255
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac26ab92d0727270800000000000000
+      internalID: 8246777917525601445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_256
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c26943eb205c70800000000000000
+      internalID: 8957707914028696846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_257
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da99b163f61a89a0800000000000000
+      internalID: -6230141899941242151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_258
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0c36d03b341b40800000000000000
+      internalID: 5410014133317536804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_259
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 17
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76b3e015d9115320800000000000000
+      internalID: 2544843667343128191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_260
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9353c42ee43cfe0800000000000000
+      internalID: -1170004744338064961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_261
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 17
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a08e57624356340800000000000000
+      internalID: 4856345112980490834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_262
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9f52a740ed10dc0800000000000000
+      internalID: -3674411710147069519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_263
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6abd8db2c3fb92e0800000000000000
+      internalID: -2117831182018299281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_264
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95052d0075e52d0800000000000000
+      internalID: -3288095016893785634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_265
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c5d5d5b6f75c210800000000000000
+      internalID: 1352627362199329876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_266
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b642e90172b2d0800000000000000
+      internalID: -3264422492625259409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_267
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb8147ff01771f10800000000000000
+      internalID: 2240383653026827256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_268
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3c6e053dcc7f010800000000000000
+      internalID: 1222671031821845424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet_269
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9595a5a66c7220d70800000000000000
+      internalID: 9007805937835727193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire Effect and Bullet_0: -6063238928031453004
+      Fire Effect and Bullet_1: -761617844698280511
+      Fire Effect and Bullet_10: 2238151945778314473
+      Fire Effect and Bullet_100: -3366741926236662538
+      Fire Effect and Bullet_101: 4278641359696793074
+      Fire Effect and Bullet_102: -2720418894221882669
+      Fire Effect and Bullet_103: -1510735344301081152
+      Fire Effect and Bullet_104: 4530633363335362279
+      Fire Effect and Bullet_105: -7743291794547296892
+      Fire Effect and Bullet_106: 5380605603620184235
+      Fire Effect and Bullet_107: -5822329895131029419
+      Fire Effect and Bullet_108: 6258210816606923784
+      Fire Effect and Bullet_109: -6560526242045784127
+      Fire Effect and Bullet_11: 3622241196891010672
+      Fire Effect and Bullet_110: 8813173942758523946
+      Fire Effect and Bullet_111: 1943372181408734125
+      Fire Effect and Bullet_112: 3443358381152071968
+      Fire Effect and Bullet_113: -6095739633736540363
+      Fire Effect and Bullet_114: 6477229828749238281
+      Fire Effect and Bullet_115: 8417180925079319740
+      Fire Effect and Bullet_116: -1217679284555556397
+      Fire Effect and Bullet_117: 4002202759716699117
+      Fire Effect and Bullet_118: 4257117346811220726
+      Fire Effect and Bullet_119: -4464997477512922736
+      Fire Effect and Bullet_12: -1916457163985441628
+      Fire Effect and Bullet_120: 4186056316429415933
+      Fire Effect and Bullet_121: 7563522904196030536
+      Fire Effect and Bullet_122: 1842826592843845937
+      Fire Effect and Bullet_123: -2544796748400968867
+      Fire Effect and Bullet_124: 1150460498562646303
+      Fire Effect and Bullet_125: 6501041671888742045
+      Fire Effect and Bullet_126: -7386991592566562658
+      Fire Effect and Bullet_127: -4310426104378725554
+      Fire Effect and Bullet_128: -8937266958671924319
+      Fire Effect and Bullet_129: 269550062404483650
+      Fire Effect and Bullet_13: 6701932212816730023
+      Fire Effect and Bullet_130: -5143998471706027983
+      Fire Effect and Bullet_131: -4259069891596946795
+      Fire Effect and Bullet_132: -8579339770390310139
+      Fire Effect and Bullet_133: 1335225195306550564
+      Fire Effect and Bullet_134: -7975713530753727374
+      Fire Effect and Bullet_135: -1590694582039139700
+      Fire Effect and Bullet_136: -3421644915183329398
+      Fire Effect and Bullet_137: 8584715711076109536
+      Fire Effect and Bullet_138: 6404340637116890438
+      Fire Effect and Bullet_139: -6370440547159493331
+      Fire Effect and Bullet_14: -8806455826085694814
+      Fire Effect and Bullet_140: -2494415424184897921
+      Fire Effect and Bullet_141: 1760693059472196785
+      Fire Effect and Bullet_142: -6424146473472046444
+      Fire Effect and Bullet_143: 8599905618020561585
+      Fire Effect and Bullet_144: -1744071262780730314
+      Fire Effect and Bullet_145: 346662032861273603
+      Fire Effect and Bullet_146: -3547494092954440457
+      Fire Effect and Bullet_147: -1248691928889861994
+      Fire Effect and Bullet_148: 6793642809318467537
+      Fire Effect and Bullet_149: -6589746938684897060
+      Fire Effect and Bullet_15: -1891940791697986996
+      Fire Effect and Bullet_150: -5734510992749537380
+      Fire Effect and Bullet_151: -1361141710262870942
+      Fire Effect and Bullet_152: -4907454281441382940
+      Fire Effect and Bullet_153: 6279137644214212997
+      Fire Effect and Bullet_154: -443247254557737824
+      Fire Effect and Bullet_155: -7192749469705295746
+      Fire Effect and Bullet_156: 5451148369312604217
+      Fire Effect and Bullet_157: 2583682872684180971
+      Fire Effect and Bullet_158: 28039032831189396
+      Fire Effect and Bullet_159: 7641958375172195707
+      Fire Effect and Bullet_16: 5766221916563151236
+      Fire Effect and Bullet_160: -4771536838137933289
+      Fire Effect and Bullet_161: 9036343133810838680
+      Fire Effect and Bullet_162: -1030019167841112987
+      Fire Effect and Bullet_163: 1633714334714433445
+      Fire Effect and Bullet_164: 4479424503987362719
+      Fire Effect and Bullet_165: 3587485092625006447
+      Fire Effect and Bullet_166: 2831615069941214061
+      Fire Effect and Bullet_167: -4974878164102954200
+      Fire Effect and Bullet_168: -7631555588801209756
+      Fire Effect and Bullet_169: -5613093931374361024
+      Fire Effect and Bullet_17: -1782221824183967892
+      Fire Effect and Bullet_170: -4267887595787815114
+      Fire Effect and Bullet_171: -6545207742936197956
+      Fire Effect and Bullet_172: -7430929410076883226
+      Fire Effect and Bullet_173: 1371877751127930810
+      Fire Effect and Bullet_174: 3320155334787308886
+      Fire Effect and Bullet_175: -1397081022975077634
+      Fire Effect and Bullet_176: 7358013151353199007
+      Fire Effect and Bullet_177: -4551623791252780962
+      Fire Effect and Bullet_178: 7708162062791978162
+      Fire Effect and Bullet_179: -652336968883279392
+      Fire Effect and Bullet_18: 3448534330554508832
+      Fire Effect and Bullet_180: -2381733676371539250
+      Fire Effect and Bullet_181: -7678088123317430022
+      Fire Effect and Bullet_182: -7411374093518217585
+      Fire Effect and Bullet_183: 5619324169345934496
+      Fire Effect and Bullet_184: 5663857215734515954
+      Fire Effect and Bullet_185: -2177028281975898760
+      Fire Effect and Bullet_186: -1670124376431345473
+      Fire Effect and Bullet_187: 4454081714040939951
+      Fire Effect and Bullet_188: 1241235904843669500
+      Fire Effect and Bullet_189: -1277057636896157722
+      Fire Effect and Bullet_19: 5345143511273936490
+      Fire Effect and Bullet_190: 1837705763783037234
+      Fire Effect and Bullet_191: 4710577374979960944
+      Fire Effect and Bullet_192: -6733833301960757801
+      Fire Effect and Bullet_193: 910790848439854950
+      Fire Effect and Bullet_194: 7816670789087618000
+      Fire Effect and Bullet_195: 152145843035663043
+      Fire Effect and Bullet_196: 8085629792298596681
+      Fire Effect and Bullet_197: -3388070711321805716
+      Fire Effect and Bullet_198: 5871099936624353586
+      Fire Effect and Bullet_199: -8886313303161695500
+      Fire Effect and Bullet_2: 8550666539291657475
+      Fire Effect and Bullet_20: 724582331065319425
+      Fire Effect and Bullet_200: -4388898575015273567
+      Fire Effect and Bullet_201: -3798758212812313348
+      Fire Effect and Bullet_202: 6481049314710054909
+      Fire Effect and Bullet_203: 8381945110347883508
+      Fire Effect and Bullet_204: -40256026081101521
+      Fire Effect and Bullet_205: 1117520628172452068
+      Fire Effect and Bullet_206: -9110801582483427617
+      Fire Effect and Bullet_207: 6581532022475471256
+      Fire Effect and Bullet_208: 7046167467353522701
+      Fire Effect and Bullet_209: 6426739321898987859
+      Fire Effect and Bullet_21: 1124483721123654912
+      Fire Effect and Bullet_210: -7291170361869556703
+      Fire Effect and Bullet_211: 4248226681248179879
+      Fire Effect and Bullet_212: 7283754733937024658
+      Fire Effect and Bullet_213: -6465409857595805009
+      Fire Effect and Bullet_214: 4545773028116838557
+      Fire Effect and Bullet_215: -5604971070311639178
+      Fire Effect and Bullet_216: -3334631320607104770
+      Fire Effect and Bullet_217: -7958133908229458691
+      Fire Effect and Bullet_218: -2512130215649635955
+      Fire Effect and Bullet_219: -5794604221585087603
+      Fire Effect and Bullet_22: 7781166348168646170
+      Fire Effect and Bullet_220: -4685467697117473068
+      Fire Effect and Bullet_221: 7397979058519501101
+      Fire Effect and Bullet_222: 5294253163722536022
+      Fire Effect and Bullet_223: 8328533323455709450
+      Fire Effect and Bullet_224: 1160196390415588881
+      Fire Effect and Bullet_225: -7345981023755294453
+      Fire Effect and Bullet_226: 679401679500376120
+      Fire Effect and Bullet_227: 6487283732766765267
+      Fire Effect and Bullet_228: -904838323592457913
+      Fire Effect and Bullet_229: -725850095195688623
+      Fire Effect and Bullet_23: 9097537982497112624
+      Fire Effect and Bullet_230: 6672869901251966891
+      Fire Effect and Bullet_231: 3235237664922922742
+      Fire Effect and Bullet_232: 5836385569788221319
+      Fire Effect and Bullet_233: 1649355568950425804
+      Fire Effect and Bullet_234: 4407458455231877234
+      Fire Effect and Bullet_235: 3490773602751031784
+      Fire Effect and Bullet_236: 7642925024341025171
+      Fire Effect and Bullet_237: -7862136202459650609
+      Fire Effect and Bullet_238: -6317375289461769563
+      Fire Effect and Bullet_239: 2843210354608497987
+      Fire Effect and Bullet_24: 734052457577461180
+      Fire Effect and Bullet_240: -1132885088706436608
+      Fire Effect and Bullet_241: -6609465909588519001
+      Fire Effect and Bullet_242: -2555058213881207304
+      Fire Effect and Bullet_243: 277303883734094311
+      Fire Effect and Bullet_244: -8568274913509262516
+      Fire Effect and Bullet_245: -6203864759675437111
+      Fire Effect and Bullet_246: -4470578942367896180
+      Fire Effect and Bullet_247: 7410731726543050107
+      Fire Effect and Bullet_248: -4504373687348475514
+      Fire Effect and Bullet_249: 3271180726253811060
+      Fire Effect and Bullet_25: 6232163739833285456
+      Fire Effect and Bullet_250: 4482099182741628348
+      Fire Effect and Bullet_251: 486181886432039202
+      Fire Effect and Bullet_252: 2971977473692363329
+      Fire Effect and Bullet_253: 5247905596219942583
+      Fire Effect and Bullet_254: 3484555746213258166
+      Fire Effect and Bullet_255: 8246777917525601445
+      Fire Effect and Bullet_256: 8957707914028696846
+      Fire Effect and Bullet_257: -6230141899941242151
+      Fire Effect and Bullet_258: 5410014133317536804
+      Fire Effect and Bullet_259: 2544843667343128191
+      Fire Effect and Bullet_26: -7104286834287437663
+      Fire Effect and Bullet_260: -1170004744338064961
+      Fire Effect and Bullet_261: 4856345112980490834
+      Fire Effect and Bullet_262: -3674411710147069519
+      Fire Effect and Bullet_263: -2117831182018299281
+      Fire Effect and Bullet_264: -3288095016893785634
+      Fire Effect and Bullet_265: 1352627362199329876
+      Fire Effect and Bullet_266: -3264422492625259409
+      Fire Effect and Bullet_267: 2240383653026827256
+      Fire Effect and Bullet_268: 1222671031821845424
+      Fire Effect and Bullet_269: 9007805937835727193
+      Fire Effect and Bullet_27: -2721210756134519848
+      Fire Effect and Bullet_28: 4596778823128096477
+      Fire Effect and Bullet_29: -5684754705062183545
+      Fire Effect and Bullet_3: -3570425790770477958
+      Fire Effect and Bullet_30: -3674000026722186822
+      Fire Effect and Bullet_31: 7777762231313993693
+      Fire Effect and Bullet_32: 8044011372743101896
+      Fire Effect and Bullet_33: -6595474780583659776
+      Fire Effect and Bullet_34: 3421286306230031515
+      Fire Effect and Bullet_35: 7303945825682772979
+      Fire Effect and Bullet_36: -3839186908728508557
+      Fire Effect and Bullet_37: -6637650887696352096
+      Fire Effect and Bullet_38: 8967307641737171838
+      Fire Effect and Bullet_39: -9151422743008411822
+      Fire Effect and Bullet_4: -8167841809208429832
+      Fire Effect and Bullet_40: 8067128163702809211
+      Fire Effect and Bullet_41: 8714523766642896849
+      Fire Effect and Bullet_42: 3976888875140773134
+      Fire Effect and Bullet_43: 4271168061420294834
+      Fire Effect and Bullet_44: 1564616479107925709
+      Fire Effect and Bullet_45: -1090984246939161534
+      Fire Effect and Bullet_46: -93737698992916319
+      Fire Effect and Bullet_47: 6076276573950680751
+      Fire Effect and Bullet_48: 1016001096031913106
+      Fire Effect and Bullet_49: 3352716375139594481
+      Fire Effect and Bullet_5: -4530497833191817023
+      Fire Effect and Bullet_50: -5791064926801039174
+      Fire Effect and Bullet_51: 7563925180558477571
+      Fire Effect and Bullet_52: 5039328836115782276
+      Fire Effect and Bullet_53: -8964840857398338279
+      Fire Effect and Bullet_54: 8816133365933190530
+      Fire Effect and Bullet_55: -3142494477039863376
+      Fire Effect and Bullet_56: -3834435714865454432
+      Fire Effect and Bullet_57: -5133937740925367321
+      Fire Effect and Bullet_58: 4306312089653705480
+      Fire Effect and Bullet_59: -4587098304550478436
+      Fire Effect and Bullet_6: 8984905740748919837
+      Fire Effect and Bullet_60: 4898571618228103467
+      Fire Effect and Bullet_61: 8669966278407929591
+      Fire Effect and Bullet_62: 7918264326553724375
+      Fire Effect and Bullet_63: 7560220652695529307
+      Fire Effect and Bullet_64: -4476319554091832409
+      Fire Effect and Bullet_65: 2284136270501454877
+      Fire Effect and Bullet_66: 747677612917351109
+      Fire Effect and Bullet_67: -7954320194773667677
+      Fire Effect and Bullet_68: -5305467938910522721
+      Fire Effect and Bullet_69: 7845465539313775409
+      Fire Effect and Bullet_7: -6561204490461558386
+      Fire Effect and Bullet_70: -6414952227190802009
+      Fire Effect and Bullet_71: -3472131048623825751
+      Fire Effect and Bullet_72: -1283909831126650497
+      Fire Effect and Bullet_73: 1962699264046708371
+      Fire Effect and Bullet_74: 2049299138166893937
+      Fire Effect and Bullet_75: -1946827921992537020
+      Fire Effect and Bullet_76: -338086174832130287
+      Fire Effect and Bullet_77: -6387623667693231819
+      Fire Effect and Bullet_78: -3797138511995649188
+      Fire Effect and Bullet_79: -4482417374020936791
+      Fire Effect and Bullet_8: 6255079305778537822
+      Fire Effect and Bullet_80: 4575641675656389928
+      Fire Effect and Bullet_81: 4396298574963048651
+      Fire Effect and Bullet_82: 4657196990504630397
+      Fire Effect and Bullet_83: 8381009700077554446
+      Fire Effect and Bullet_84: 271650986348981885
+      Fire Effect and Bullet_85: -2672437784679682599
+      Fire Effect and Bullet_86: 3729089835705416582
+      Fire Effect and Bullet_87: -4162989226103877852
+      Fire Effect and Bullet_88: -7875940951566074717
+      Fire Effect and Bullet_89: 6477991397317139207
+      Fire Effect and Bullet_9: -5346132723201544746
+      Fire Effect and Bullet_90: 5370702490689421110
+      Fire Effect and Bullet_91: -4213064319069960673
+      Fire Effect and Bullet_92: -8546685546071199330
+      Fire Effect and Bullet_93: -2523402879991397675
+      Fire Effect and Bullet_94: -5499866332978886694
+      Fire Effect and Bullet_95: -4935413708115610549
+      Fire Effect and Bullet_96: -7717090741337883859
+      Fire Effect and Bullet_97: -3218954145108424600
+      Fire Effect and Bullet_98: -1782543956299393263
+      Fire Effect and Bullet_99: 6163238154903999003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
