@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4537765064643921118}
   - component: {fileID: 7111971006748237118}
   - component: {fileID: 6025195715842937997}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlimeF_B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,4 +189,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 5
-  lifeTime: 5

@@ -15,9 +15,15 @@ MonoBehaviour:
   roundNumber: 1
   pickCount: 3
   slots:
-  - choice: {fileID: 11400000, guid: 15c001e18d6a29445ab163128c3a910d, type: 2}
-    weight: 33
-  - choice: {fileID: 11400000, guid: 670ae8920384b484695cf3237cc054a8, type: 2}
-    weight: 33
+  - choice: {fileID: 11400000, guid: a2cd9cf05d32a484596bc160eb71c56e, type: 2}
+    weight: 10
+  - choice: {fileID: 11400000, guid: aa4efc8742c76924bac872550ee54217, type: 2}
+    weight: 10
   - choice: {fileID: 11400000, guid: ba010b8030f3b3748b68854737b7f7a8, type: 2}
     weight: 33
+  - choice: {fileID: 11400000, guid: 15c001e18d6a29445ab163128c3a910d, type: 2}
+    weight: 20
+  - choice: {fileID: 11400000, guid: 05bf13473edf0e24c892c9dd771d2346, type: 2}
+    weight: 20
+  - choice: {fileID: 11400000, guid: 4fafb5094889e8143820598c5fddfcf6, type: 2}
+    weight: 20

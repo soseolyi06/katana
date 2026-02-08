@@ -61,6 +61,7 @@ public class SlimeStatManager : MonoBehaviour
         // 체력이 0이 되면 사망 처리
         if (currentHp == 0)
         {
+            SoundManager.I?.PlayEnemyDeath(); // 사망 사운드 재생
             Die();
         }
     }

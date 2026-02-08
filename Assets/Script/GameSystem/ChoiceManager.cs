@@ -15,11 +15,13 @@ public class ChoiceManager : MonoBehaviour
     [Tooltip("비우면 playerStat.transform에 붙습니다.")]
     [SerializeField] private Transform activeSkillRoot;
 
+    [SerializeField] private ParryPassive parryPassive;
     private void Awake()
     {
         if (roundManager == null) roundManager = FindFirstObjectByType<RoundManager>();
         if (playerStat == null) playerStat = FindFirstObjectByType<PlayerStatManager>();
         if (choiceUI == null) choiceUI = FindFirstObjectByType<ChoiceUI>();
+        if (parryPassive == null) parryPassive = FindFirstObjectByType<ParryPassive>();
 
         if (activeSkillRoot == null && playerStat != null)
             activeSkillRoot = playerStat.transform;
@@ -81,11 +83,57 @@ public class ChoiceManager : MonoBehaviour
             var s = slots[i];
             if (s == null || s.choice == null) continue;
             if (s.weight <= 0) continue;
+            if (!CanAppearByParryState(s.choice)) continue;
             pool.Add((s.choice, s.weight));
         }
 
         return WeightedPicker.PickUniqueWeighted(pool, count);
     }
+
+    private bool IsParryChoice(ChoiceDefinition def)
+    {
+        if (def == null) return false;
+        return def.parryUnlock || IsParryUpgrade(def);
+    }
+
+    private bool IsParryUpgrade(ChoiceDefinition def)
+    {
+        if (def == null) return false;
+
+        return (def.parryDamageAdd != 0) ||
+            (Mathf.Abs(def.parryRadiusAdd) > 0.0001f) ||
+            (Mathf.Abs(def.parryAngleAdd) > 0.0001f);
+    }
+
+    private bool CanAppearByParryState(ChoiceDefinition def)
+    {
+        // 패링 관련 선택지가 아니면 항상 통과
+        if (def == null || !IsParryChoice(def)) return true;
+
+        // ParryPassive가 없으면: 해금/강화 둘 다 안 뜨게(원하면 true로 바꿔도 됨)
+       var parry = parryPassive;
+        bool unlocked = (parry != null && parry.unlocked);
+
+        bool isUnlock = def.parryUnlock;
+        bool isUpgrade = IsParryUpgrade(def);
+
+        // 미해금: 해금만 허용, 강화 금지
+        if (!unlocked)
+        {
+            if (isUpgrade) return false;
+            return true; // unlock 포함 통과
+        }
+
+        // 해금: 해금 금지, 강화 허용
+        if (unlocked)
+        {
+            if (isUnlock) return false;
+            return true; // upgrade 통과
+        }
+
+        return true;
+    }
+
 
     private void HandlePicked(ChoiceDefinition def)
     {
@@ -121,6 +169,34 @@ public class ChoiceManager : MonoBehaviour
         if (def.healOnKill || def.healOnRoundClear)
         {
             Debug.Log("[ChoiceManager] Passive selected. (healOnKill / healOnRoundClear) -> Next step: store & trigger via events.");
+        }
+
+        if (IsParryChoice(def))
+        {
+            var parry = parryPassive;
+            if (parry != null)
+            {
+                if (def.parryUnlock)
+                {
+                    parry.unlocked = true;
+                    parry.enabled = true;   // ✅ 네가 원하는 구조의 핵심
+                    Debug.Log("[ChoiceManager] Passive unlocked: Parry");
+                }
+
+                // 강화(해금 상태일 때만 의미 있게 적용되게 하고 싶으면 아래 if로 묶기)
+                if (parry.unlocked)
+                {
+                    parry.enabled = true;  // ✅ 강화 선택 시 사용도 ON(권장)
+
+                    if (def.parryDamageAdd != 0) parry.parryDamage += def.parryDamageAdd;
+                    if (Mathf.Abs(def.parryRadiusAdd) > 0.0001f) parry.parryRadius += def.parryRadiusAdd;
+                    if (Mathf.Abs(def.parryAngleAdd) > 0.0001f) parry.parryAngle += def.parryAngleAdd;
+                }
+            }
+            else
+            {
+                Debug.LogWarning("[ChoiceManager] DashParryPassive component is missing on Player.");
+            }
         }
 
         // Active 스킬 프리팹 부착 (최소 구현)

@@ -12,21 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3ccb34477404594d839463bf9dc3361, type: 3}
   m_Name: zChoiceDef_t1
   m_EditorClassIdentifier: 
-  title: "\uD14C\uC2A4\uD2B8"
-  description: "\uAE30\uBCF8\uC801\uC778 \uD2C0\uACFC \uC724\uACFD\uC744 \uC7A1\uAE30\uC704\uD55C
-    \uAC00\uC7A5 \uAE30\uBCF8\uC801\uC778 \uC120\uD0DD\uC9C0\uC774\uB2E4.\n\uC544\uBB34\uB7F0
-    \uD6A8\uACFC\uB3C4 \uC874\uC7AC\uD558\uC9C0 \uC54A\uC73C\uBA70 \uC624\uB85C\uC9C0
-    \uC798 \uB3D9\uC791\uD558\uB294\uC9C0 \uD655\uC778\uD558\uAE30 \uC704\uD55C\n\uC120\uD0DD\uC9C0\uB85C
-    \uB9CC\uB4E4\uC5B4\uC838 \uC788\uB2E4"
-  type: 0
+  title: "\uD328\uB9C1"
+  description: "\uC5B4\uB514\uD55C\uBC88 \uACF5\uACA9\uD574\uBCF4\uC2DC\uC9C0\n\n(\uD328\uB9C1
+    \uD65C\uC131\uD654)"
+  type: 1
   icon: {fileID: -4223955061131622710, guid: 3d07f2ea53186d74cbadef5501ffb159, type: 3}
   background: {fileID: 0}
   addAttack: 0
   addMaxHp: 0
-  addMoveSpeed: 50
+  addMoveSpeed: 0
   addDashCooldownDelta: 0
   healOnKill: 0
   healOnKillAmount: 0
   healOnRoundClear: 0
   healOnRoundClearAmount: 0
+  parryUnlock: 1
+  parryDamageAdd: 0
+  parryRadiusAdd: 0
+  parryAngleAdd: 0
+  dashParry: 1
   activeSkillPrefab: {fileID: 0}

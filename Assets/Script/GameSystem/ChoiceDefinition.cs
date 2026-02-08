@@ -34,6 +34,13 @@ public class ChoiceDefinition : ScriptableObject
     public bool healOnRoundClear;
     public int healOnRoundClearAmount;
 
+    [Header("Passive: Parry")]
+    public bool parryUnlock;
+    public int parryDamageAdd;
+    public float parryRadiusAdd;
+    public float parryAngleAdd;
+    public bool dashParry;
+
     [Header("Active Skill")]
     public GameObject activeSkillPrefab; // Player에 붙일 스킬 프리팹(선택)
 }

@@ -15,12 +15,12 @@ MonoBehaviour:
   roundDuration: 30
   schedule:
   - time: 0
-    prefab: {fileID: 4161691980114224643, guid: b383b9f214082d74a8ad87122dde0861, type: 3}
+    prefab: {fileID: 6515351030079676539, guid: be6e7556916b2c145bff2f143edaf1ed, type: 3}
     count: 12
     interval: 0.2
   - time: 0
     prefab: {fileID: 1005084557525183861, guid: c26f7123b3473804990b553a8d0c1948, type: 3}
-    count: 3
+    count: 10
     interval: 0.3
   - time: 15
     prefab: {fileID: 4161691980114224643, guid: b383b9f214082d74a8ad87122dde0861, type: 3}

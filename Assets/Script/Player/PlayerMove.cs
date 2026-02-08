@@ -31,11 +31,15 @@ public class PlayerMove : MonoBehaviour
     private float dashDuration;  // 최종 대시 유지시간
     private float dashCooldown;  // 최종 대시 쿨타임
 
+    public int DashId { get; private set; } = 0;  // ✅ 대쉬 시작할 때마다 증가
+
     [Header("Attack (Dash Sword)")]
     public SwordHitbox swordHitbox; // Player 자식 Sword의 SwordHitbox 연결
 
     private Rigidbody2D rb;
     private Animator ani;
+
+    private PlayerSlow speedAffect; // PlayerSlow 컴포넌트 캐시
 
     void Awake()
     {
@@ -50,6 +54,9 @@ public class PlayerMove : MonoBehaviour
 
         // 벽에 부딪혀 회전하는 것 방지(회전 고정)
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+
+        //플레이어 슬로우 컴포넌트 캐시
+        speedAffect = GetComponent<PlayerSlow>();
     }
 
     void Start()
@@ -120,7 +127,11 @@ public class PlayerMove : MonoBehaviour
         // ✅ 최종 이동속도(moveSpeed)를 적용해서 이동한다
         // - moveSpeed는 PlayerStatManager가 계산한 finalMoveSpeed를 받아온 값
         // ---------------------------------------------------------
-        rb.linearVelocity = inputDir * moveSpeed;
+        float mul = 1f;
+        if (speedAffect != null)
+            mul = speedAffect.GetCurrentSpeedMultiplier();
+
+        rb.linearVelocity = inputDir * (moveSpeed * mul);
     }
 
     /// <summary>
@@ -144,6 +155,37 @@ public class PlayerMove : MonoBehaviour
         dashCooldown = PlayerStatManager.I.finalDashCooldown;
     }
 
+
+    public bool IsDashing => isDashing;
+    public Vector2 LastMoveDir => lastMoveDir;
+    public Vector2 DashDir { get; private set; } = Vector2.down;
+
+
+    // ✅ 히트스톱 이후 이어달리기용 “짧은 추가 대쉬”
+    public void NudgeDash(Vector2 dir, float speedMul = 1f, float duration = 0.08f)
+    {
+        StartCoroutine(NudgeDashCo(dir, speedMul, duration));
+    }
+
+    private IEnumerator NudgeDashCo(Vector2 dir, float speedMul, float duration)
+    {
+        if (rb == null) yield break;
+
+        Vector2 d = dir.sqrMagnitude > 0.001f ? dir.normalized : lastMoveDir;
+        float t = 0f;
+
+        // 다른 코루틴과 충돌이 부담되면, duration을 짧게(0.05~0.1) 유지하는 게 안전
+        while (t < duration)
+        {
+            rb.linearVelocity = d * dashSpeed * speedMul;
+            t += Time.fixedDeltaTime;
+            yield return new WaitForFixedUpdate();
+        }
+
+        // 여기서 0으로 끊는 게 싫으면, 원래 이동 로직이 속도를 다시 잡게 둬도 됨
+        rb.linearVelocity = Vector2.zero;
+    }
+    
     IEnumerator Dash(Vector2 dir)
     {
         // ---------------------------------------------------------
@@ -154,18 +196,29 @@ public class PlayerMove : MonoBehaviour
         canDash = false;
         isDashing = true;
 
-        // ✅ 대시 시작: 검 히트박스 ON
-        if (swordHitbox != null) swordHitbox.SetActive(true);
-        // ---------------------------------------------------------
-        // ✅ 대시 시작: 최종 대시속도(dashSpeed)를 적용
-        // - dir.normalized: 혹시 모를 대각선 보정(방향 벡터는 크기 1로)
-        // ---------------------------------------------------------
-        rb.linearVelocity = dir.normalized * dashSpeed;
+        DashId++; // ✅ 대쉬 1회 시작
+        DashDir = (dir.sqrMagnitude > 0.001f) ? dir.normalized : lastMoveDir;
 
+         // ✅ 대시 시작: 검 히트박스 ON (여기로 이동)
+        if (swordHitbox != null) swordHitbox.SetActive(true);
+
+        float elapsed = 0f;   // ✅ 이 줄이 반드시 필요
+        
+            while (elapsed < dashDuration)
+        {
+            float mul = 1f;
+            if (speedAffect != null)
+                mul = speedAffect.GetCurrentSpeedMultiplier();
+
+            rb.linearVelocity = dir.normalized * (dashSpeed * mul);
+
+            elapsed += Time.fixedDeltaTime;
+            yield return new WaitForFixedUpdate();
+        }
         // ---------------------------------------------------------
         // ✅ 대시 유지 시간: 최종 대시 지속시간(dashDuration) 만큼 기다린다
         // ---------------------------------------------------------
-        yield return new WaitForSeconds(dashDuration);
+        // yield return new WaitForSeconds(dashDuration);
 
         // ---------------------------------------------------------
         // 대시 종료:

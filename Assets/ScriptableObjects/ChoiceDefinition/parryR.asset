@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ccb34477404594d839463bf9dc3361, type: 3}
+  m_Name: parryR
+  m_EditorClassIdentifier: 
+  title: "\uD648\uB7F0"
+  description: "\uC911\uC694\uD55C\uAC74 \uD798\uB3C4, \uC7A5\uBE44\uB3C4 \uC544\uB2C8\uB77C
+    \uD0C0\uC774\uBC0D\uC774\uB2E4\n\n(\uD328\uB9C1 \uC0AC\uAC70\uB9AC \uC99D\uAC00)"
+  type: 0
+  icon: {fileID: 3434858946050965686, guid: 70a86b9a72084df46bf0a86d261ff9f0, type: 3}
+  background: {fileID: 0}
+  addAttack: 0
+  addMaxHp: 0
+  addMoveSpeed: 0
+  addDashCooldownDelta: 0
+  healOnKill: 0
+  healOnKillAmount: 0
+  healOnRoundClear: 0
+  healOnRoundClearAmount: 0
+  parryUnlock: 0
+  parryDamageAdd: 0
+  parryRadiusAdd: 0.5
+  parryAngleAdd: 0
+  dashParry: 1
+  activeSkillPrefab: {fileID: 0}

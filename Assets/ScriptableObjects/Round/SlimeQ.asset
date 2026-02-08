@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de840066c46bd434280365f2de6eb57a, type: 3}
-  m_Name: 1_5
+  m_Name: SlimeQ
   m_EditorClassIdentifier: 
   roundDuration: 30
   schedule:
-  - time: 5
-    prefab: {fileID: 1005084557525183861, guid: c26f7123b3473804990b553a8d0c1948, type: 3}
-    count: 10
-    interval: 0.1
+  - time: 0
+    prefab: {fileID: 3831027975007091325, guid: 106e2d0efe340174aab684bb397bb390, type: 3}
+    count: 1
+    interval: 0

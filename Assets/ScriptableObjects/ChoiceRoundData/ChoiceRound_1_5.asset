@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c72048777db844fb192b595286b08a, type: 3}
+  m_Name: ChoiceRound_1_5
+  m_EditorClassIdentifier: 
+  roundNumber: 5
+  pickCount: 3
+  slots:
+  - choice: {fileID: 11400000, guid: a2cd9cf05d32a484596bc160eb71c56e, type: 2}
+    weight: 10
+  - choice: {fileID: 11400000, guid: aa4efc8742c76924bac872550ee54217, type: 2}
+    weight: 33
+  - choice: {fileID: 11400000, guid: ba010b8030f3b3748b68854737b7f7a8, type: 2}
+    weight: 33
+  - choice: {fileID: 11400000, guid: 15c001e18d6a29445ab163128c3a910d, type: 2}
+    weight: 21
+  - choice: {fileID: 11400000, guid: 05bf13473edf0e24c892c9dd771d2346, type: 2}
+    weight: 26
+  - choice: {fileID: 11400000, guid: 4fafb5094889e8143820598c5fddfcf6, type: 2}
+    weight: 30
+  - choice: {fileID: 11400000, guid: 670ae8920384b484695cf3237cc054a8, type: 2}
+    weight: 30

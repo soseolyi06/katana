@@ -88,6 +88,7 @@ public class PlayerHP : MonoBehaviour
         if (currentHp < 0)
             currentHp = 0;
 
+        SoundManager.I?.PlayPlayerHit(); // ✅ 체력 감소가 확정된 순간 즉시 사운드 재생
         // 5) 체력이 0이 되면 사망 처리
         if (currentHp == 0)
         {
